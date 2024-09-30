@@ -3,6 +3,7 @@ import React from 'react';
 import {SafeAreaView, StyleSheet, Text, View} from 'react-native';
 import ProductListScreen from './Screens/ProductListScreen/ProductListScreen';
 import OrderListScreen from './Screens/OrderListScreen/OrderListScreen';
+import Loader from './Screens/Loader/Loader';
 
 function App(): React.JSX.Element {
   return (
@@ -10,7 +11,7 @@ function App(): React.JSX.Element {
       <View>
         <Text style={styles.header}>Product List</Text>
       </View>
-      <OrderListScreen />
+      <Loader />
     </SafeAreaView>
   );
 }

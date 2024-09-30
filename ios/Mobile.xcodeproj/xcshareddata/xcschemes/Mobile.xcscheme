@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "SkeletonLoading.app"
-               BlueprintName = "SkeletonLoading"
-               ReferencedContainer = "container:SkeletonLoading.xcodeproj">
+               BuildableName = "Mobile.app"
+               BlueprintName = "Mobile"
+               ReferencedContainer = "container:Mobile.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "SkeletonLoadingTests.xctest"
-               BlueprintName = "SkeletonLoadingTests"
-               ReferencedContainer = "container:SkeletonLoading.xcodeproj">
+               BuildableName = "MobileTests.xctest"
+               BlueprintName = "MobileTests"
+               ReferencedContainer = "container:Mobile.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "SkeletonLoading.app"
-            BlueprintName = "SkeletonLoading"
-            ReferencedContainer = "container:SkeletonLoading.xcodeproj">
+            BuildableName = "Mobile.app"
+            BlueprintName = "Mobile"
+            ReferencedContainer = "container:Mobile.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "SkeletonLoading.app"
-            BlueprintName = "SkeletonLoading"
-            ReferencedContainer = "container:SkeletonLoading.xcodeproj">
+            BuildableName = "Mobile.app"
+            BlueprintName = "Mobile"
+            ReferencedContainer = "container:Mobile.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
